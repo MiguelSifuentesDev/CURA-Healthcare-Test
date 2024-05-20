@@ -13,9 +13,7 @@ This project aims to automate the testing of the CURA Healthcare Service website
 
 ## Project Structure
 ```markdown
-cura-automation/
-├── Drivers/
-│   └── chromedriver.exe
+CURA-Healthcare-Test/
 ├── Tests/
 │   ├── HomePageTests.cs
 │   ├── LoginTests.cs
@@ -44,21 +42,18 @@ cura-automation/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/cura-automation.git
-    cd cura-automation
+    git clone https://github.com/MiguelSifuentesDev/CURA-Healthcare-Test.git
+    cd CURA-Healthcare-Test
     ```
 
 2. **Open the Project**:
-    Open `cura-automation.sln` in Visual Studio.
+    Open `CURA-Healthcare-Test.sln` in Visual Studio.
 
 3. **Restore NuGet Packages**:
     Visual Studio should automatically restore the NuGet packages. If not, restore them manually:
     ```bash
     dotnet restore
     ```
-
-4. **Download ChromeDriver**:
-    Ensure `chromedriver.exe` is in the `Drivers` folder. You can download it from [here](https://sites.google.com/a/ch
 
    ## Running Tests
 
