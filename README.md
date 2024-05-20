@@ -15,18 +15,19 @@ This project aims to automate the testing of the CURA Healthcare Service website
 
 cura-automation/
 ├── Drivers/
-│ └── chromedriver.exe
+│   └── chromedriver.exe
 ├── Tests/
-│ ├── HomePageTests.cs
-│ ├── LoginTests.cs
-│ ├── AppointmentTests.cs
-│ └── HistoryTests.cs
+│   ├── HomePageTests.cs
+│   ├── LoginTests.cs
+│   ├── AppointmentTests.cs
+│   └── HistoryTests.cs
 ├── Utils/
-│ └── TestBase.cs
+│   └── TestBase.cs
 ├── .gitignore
 ├── README.md
 ├── cura-automation.csproj
 └── packages.config
+
 
 ## Prerequisites
 
