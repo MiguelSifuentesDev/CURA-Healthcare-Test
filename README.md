@@ -12,7 +12,7 @@ This project aims to automate the testing of the CURA Healthcare Service website
 - [License](#license)
 
 ## Project Structure
-
+```markdown
 cura-automation/
 ├── Drivers/
 │   └── chromedriver.exe
